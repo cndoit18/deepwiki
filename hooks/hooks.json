@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash hooks/deepwiki-detect.sh"
+            "command": "bash ${CLAUDE_PLUGIN_ROOT}/hooks/deepwiki-detect.sh"
           }
         ]
       }
