@@ -1,0 +1,15 @@
+{
+  "description": "Detects GitHub repository URLs in user prompts and suggests DeepWiki",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash hooks/deepwiki-detect.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

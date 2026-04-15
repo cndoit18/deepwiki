@@ -1,0 +1,10 @@
+{
+  "name": "deepwiki",
+  "version": "0.1.0",
+  "description": "DeepWiki integration for querying GitHub repository documentation via MCP",
+  "author": {
+    "name": "cndoit18"
+  },
+  "license": "MIT",
+  "keywords": ["deepwiki", "documentation", "github", "mcp"]
+}

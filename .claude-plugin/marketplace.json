@@ -1,0 +1,14 @@
+{
+  "name": "deepwiki-marketplace",
+  "owner": {
+    "name": "cndoit18"
+  },
+  "plugins": [
+    {
+      "name": "deepwiki",
+      "source": "./",
+      "description": "DeepWiki integration for querying GitHub repository documentation via MCP",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+GitHub repository detected. Before answering, invoke the "deepwiki" skill (via the Skill tool) with the repository identifier extracted from the user's message. The skill will query DeepWiki MCP tools for architecture, code structure, and implementation details, then format the response.
